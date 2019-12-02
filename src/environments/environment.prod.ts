@@ -1,3 +1,6 @@
 export const environment = {
-  production: true
+  production: true,
+  dexcomServiceBaseUrl: 'https://dexcom-service.herokuapp.com/api',
+  dexcomUserName: '',
+  dexcomPassWord: ''
 };
