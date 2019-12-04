@@ -41,8 +41,12 @@ yarn-error.log
 testem.log
 /typings
 
+# other
+/.vscode/
+/diabetes-lab.iml
+/src/environments/
+
 # System Files
 .DS_Store
 Thumbs.db
-/.vscode/
-/diabetes-lab.iml
+
