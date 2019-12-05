@@ -44,7 +44,6 @@ testem.log
 # other
 /.vscode/
 /diabetes-lab.iml
-/src/environments/
 
 # System Files
 .DS_Store
